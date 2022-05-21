@@ -1,0 +1,63 @@
+.anahat{
+    margin: auto;
+    width: 1258px;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    background-color: #DDDDDD;
+    text-align: center;
+}
+
+.sol{
+    background-color: aqua;
+    width: 300px;
+    border: px solid;
+    padding: 9px;
+    margin-top: 3px;
+    text-align: center;
+    float: left;
+    height: 75px;
+}
+
+.searches{
+    margin-bottom: 0px;
+    margin: 0px;
+}
+
+.yazi{
+    margin-bottom: 0px;
+}
+
+.orta{
+    background-color: cyan;
+    width: 400px;
+    border: 0px solid;
+    margin-top: 3px;
+    margin-left: 3px;
+    padding: 9px;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+    height: 75px;
+}
+
+.sag{
+    background-color: darkcyan;
+    width: 500px;
+    padding: 8px;
+    margin-top: 2px;
+    text-align: center;
+    float: left;
+    margin-left: 3px;
+}
+.sagyazi{
+    margin-bottom: 0px;
+    margin: 0px;
+}
+.copyright{
+    text-align: center;
+}
